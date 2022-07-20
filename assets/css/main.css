@@ -2279,3 +2279,13 @@ button,
 .list {
   list-style: none;
 }
+
+.bio {
+  font-size: 1.5rem;
+}
+
+.icons {
+  height: 11rem;
+  display: inline-block;
+  margin-right: 15px;
+}
